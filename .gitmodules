@@ -1,3 +1,6 @@
 [submodule "2024-C2/TPs"]
 	path = 2024-C2/TPs
 	url = git@github.com:MatiMoran/Algo3-TPs.git
+[submodule "2024_C1"]
+	path = 2024_C1
+	url = git@github.com:MatiMoran/Algo3-TDA.git
